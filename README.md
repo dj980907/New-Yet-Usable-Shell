@@ -1,5 +1,6 @@
 # New-Yet-Usable-Shell
 
+This program is from CS202 of Prof. Yang Tang @ NYU. <br />
 This is a program that demonstrates my familiarity of the Linux programming environment and the shell.<br>
 This is a basic shell that creates, destroy, and manages processes, handles signals and I/O redirection, invokes system calls. <br/>
 
